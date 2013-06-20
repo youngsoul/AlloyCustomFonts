@@ -1,0 +1,29 @@
+".label1Style": {
+	color: "#f00",
+	top: 10,
+	textAlign: 'center',
+	font:{fontFamily:'Ren & Stimpy', fontSize: 27},
+		shadowColor: '#eee',
+		shadowOffset: {x:0,y:1}
+	
+},
+".label2Style": {
+	color: "#0f0",
+	top: 10,
+	textAlign: 'center',
+	font:{fontFamily:'Montez', fontSize: 27},
+		shadowColor: '#eee',
+		shadowOffset: {x:0,y:1}
+	
+},
+".label3Style": {
+	color: "#00f",
+	top: 10,
+	textAlign: 'center',
+	font:{fontFamily:'GoodDog', fontSize: 27},
+		shadowColor: '#eee',
+		shadowOffset: {x:0,y:1}
+	
+}
+
+
